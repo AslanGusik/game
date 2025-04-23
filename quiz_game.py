@@ -1,4 +1,6 @@
 # List of quiz questions with options and correct answers
+import os
+
 quiz = [
     {
         "question": "What is the capital of France?",
