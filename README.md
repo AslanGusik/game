@@ -11,5 +11,5 @@ This is a simple Python-based quiz game where the player answers multiple-choice
 ## How to Play
 
 1. Clone or download the repository.
-2. Run the script:
-   python quiz_game.py
+2. Run the script
+   ```python quiz_game.py```
