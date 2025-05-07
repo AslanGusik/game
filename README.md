@@ -7,6 +7,7 @@ This is a simple Python-based quiz game where the player answers multiple-choice
 - Asks a series of multiple-choice questions.
 - Provides instant feedback on whether the answer is correct.
 - Shows the final score at the end.
+- - Provides instant feedback on whether the answer is uncorrect.
 
 ## How to Play
 
