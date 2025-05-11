@@ -1,5 +1,6 @@
 # List of quiz questions with options and correct answers
 import os
+import operator 
 
 datacet = ["question": "What is the capital of France?",]
 quiz = [
