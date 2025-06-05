@@ -1,4 +1,4 @@
-# List of quiz questions with options and correct answers
+# List of quiz questions with options 
 import os
 import operator 
 import pandas
